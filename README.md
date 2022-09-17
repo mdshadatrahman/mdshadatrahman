@@ -1,2 +1,2 @@
-# Hi there, I'm Shadat👋 
-## A Student and a Developer!!
+# Hola, Soy Shadat👋 
+## Un estudiante y un ingeniero de software!!
