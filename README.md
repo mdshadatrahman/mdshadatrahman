@@ -22,7 +22,7 @@ Here are a few things I've picked up along my learning journey.
 
 ### Backend Technologies
 <a href="#backend-technologies"><img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white"/></a>
-<a href="#backend-technologies"><img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white"/></a>
+ <a href="#backend-technologies"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
 
 ### Mobile Technologies
 <a href="#mobile-technologies"><img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></a> <a href="#mobile-technologies"><img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white"/></a>
@@ -38,7 +38,6 @@ Here are a few things I've picked up along my learning journey.
 
  ### Automation and Testing Tools
  <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/></a> 
- <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
 
  ### IDE and Editors
  <a href="#ide-and-editors"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/></a> <a href="#ide-and-editors"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white"/></a> 
