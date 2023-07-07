@@ -1,5 +1,5 @@
-# Hola, Soy Shadat👋 
-## Un estudiante y un ingeniero de software!!
+# Hello, I am Shadat👋 
+## And I don't know what I am doing!!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshadatrahman&label=Profile%20views&color=0e75b6&style=flat" alt="mdshadatrahman" /> </p>
 
