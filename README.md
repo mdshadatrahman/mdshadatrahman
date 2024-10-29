@@ -29,9 +29,10 @@ Here are a few things I've picked up along my learning journey.
 
 
 ### Database and Queues
-<a href="#database-and-queues"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/></a> <a href="#database-and-queues"><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a> <a href="#database-and-queues"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
+<a href="#database-and-queues"><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a> <a href="#database-and-queues"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 
 ### Cloud Platforms
+<a href="#database-and-queues"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/></a> 
  <a href="#cloud-platforms"><img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white"/></a>
 
  ### DevOps Tools
