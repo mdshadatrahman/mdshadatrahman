@@ -16,7 +16,7 @@
 Here are a few things I've picked up along my learning journey.
 
 ### Programming Languages
-<a href="#programming-languages"><img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/typescript-0175C2.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<a href="#programming-languages"><img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/></a>
 
 ### Backend Technologies
 <a href="#backend-technologies"><img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white"/></a>
